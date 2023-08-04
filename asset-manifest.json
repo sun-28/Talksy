@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Talksy/static/css/main.2759f8e4.css",
-    "main.js": "/Talksy/static/js/main.6585288e.js",
+    "main.js": "/Talksy/static/js/main.5e57c80b.js",
     "static/media/robot1.gif": "/Talksy/static/media/robot1.b56328485faac735b534.gif",
     "static/media/loader.gif": "/Talksy/static/media/loader.b40fc3d91ff1f4db53e2.gif",
     "static/media/NameLogo.png": "/Talksy/static/media/NameLogo.536eda6ed654ee59095c.png",
     "index.html": "/Talksy/index.html",
     "main.2759f8e4.css.map": "/Talksy/static/css/main.2759f8e4.css.map",
-    "main.6585288e.js.map": "/Talksy/static/js/main.6585288e.js.map"
+    "main.5e57c80b.js.map": "/Talksy/static/js/main.5e57c80b.js.map"
   },
   "entrypoints": [
     "static/css/main.2759f8e4.css",
-    "static/js/main.6585288e.js"
+    "static/js/main.5e57c80b.js"
   ]
 }
